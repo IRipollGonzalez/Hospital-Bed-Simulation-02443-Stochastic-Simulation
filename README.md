@@ -1,4 +1,4 @@
-# Hospital-Bed-Simulation-02443
+# Hospital-Bed-Simulation
 Discrete-Event Simulation of Patient Flow in Hospitals  
 **DTU 02443 – Stochastic Simulation**  
 **Group 15**
